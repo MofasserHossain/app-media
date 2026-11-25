@@ -1,4 +1,4 @@
-# <public-repo>
+# app-media
 
 Static files.
 
